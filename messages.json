@@ -1,4 +1,10 @@
 {
-    "enabled": false,
-    "message": "VCM(Vertex Core Module) has updated please update to 1.0.2"
+    "current": "You are running the latest version.",
+    "deprecated": "A newer version is available. This version will not run.",
+    "blocked": "This version is no longer supported. Execution stopped.",
+    "alert": "Attention: Action required for this product.",
+    "warning": "Warning: Please check your configuration.",
+    "info": "Information: This product is operating normally.",
+    "critical": "Critical: Immediate action required!",
+    "update_required": "Loader update required. Please get the latest version."
 }
