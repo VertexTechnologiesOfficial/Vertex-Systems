@@ -1,4 +1,6 @@
 {
-  "owner": "Access Denied: The game creator is blacklisted and cannot use Vertex products. [APSL]",
-  "player": "Access Denied: Your account is blacklisted and cannot use Vertex products. [APSL]"
+  "owner": "Access Denied: Game creator is blacklisted from using BDA products. [BDA Sentinel Core | Code: BSC-1001]",
+  "player": "Access Denied: Your account is blacklisted from BDA products. [BDA Sentinel Core | Code: BSC-1001]",
+  "group": "Access Denied: Entire group is restricted from BDA products. [BDA Sentinel Core | Code: BSC-1001]",
+  "asset": "Access Denied: This asset uses blacklisted dependencies. BDA access blocked. [BDA Sentinel Core | Code: BSC-1001]",
 }
